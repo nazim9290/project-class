@@ -1,0 +1,23 @@
+.we-relize{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-bottom: 100px;
+    padding: 20px;
+}
+.we-imag{
+    position: relative;
+    top: 60px;
+    left: 120px;
+
+}
+.we-write{
+    box-shadow: 10px -10px 10px rgb(230, 218, 218), -2em 1em .1em rgb(228, 228, 222);
+    padding: 10px;
+}
+.carasul{
+    width: 75%;
+    grid: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
